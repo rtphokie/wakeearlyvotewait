@@ -67,7 +67,7 @@ ABSENTEE_URL = "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/{d}/absentee_{ymd}.zi
 COUNTY = "WAKE"
 COUNTY_TURNOUT_URL = (
     "https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/"
-    "documents/2026-10/2026EVunofficial.pdf"
+    "documents/2026-10/2026EVunofficial_3.pdf"
 )
 COUNTY_ELECTION_URL = (
     "https://www.wake.gov/departments-government/board-elections/"
